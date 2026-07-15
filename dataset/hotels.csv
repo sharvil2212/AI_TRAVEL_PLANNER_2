@@ -1,0 +1,151 @@
+Hotel,City,Price,Rating,Address,Attraction1,Attraction2
+Hotel Green Leaf,Karad,1200,3,Near Bus Stand,Pritisangam,Krishna River
+Hotel Sangam,Karad,1500,4,Malkapur,Koyna River,Agashiv Caves
+Hotel Royal Palace,Karad,2500,5,Station Road,Sadashivgad Fort,Pritisangam
+Hotel Residency,Karad,1800,4,Shaniwar Peth,Krishna Ghat,Koyna Dam
+Hotel Comfort Inn,Karad,1400,3,Collector Office,Naktya Temple,Agashiv Caves
+Hotel Paradise,Karad,2100,4,Vidyanagar,Pritisangam,Krishna River
+Hotel Grand Stay,Karad,2800,5,Mangalwar Peth,Koyna Dam,Sadashivgad Fort
+Hotel Blue Sky,Karad,1600,3,Bus Stand Road,Krishna River,Agashiv Caves
+Hotel River View,Karad,2300,4,Market Yard,Pritisangam,Koyna River
+Hotel Sunrise,Karad,3000,5,Station Road,Krishna Ghat,Koyna Dam
+Hotel Shivneri,Pune,2200,4,Shivaji Nagar,Shaniwar Wada,Aga Khan Palace
+Hotel Pride,Pune,3500,5,Koregaon Park,Phoenix Mall,Osho Ashram
+Hotel Lotus,Pune,1800,3,Hinjewadi,Sinhagad Fort,Dagadusheth Temple
+Hotel Comfort,Pune,2600,4,Baner,Parvati Hill,Khadakwasla Dam
+Hotel Royal Orchid,Pune,4200,5,Koregaon Park,Aga Khan Palace,Phoenix Mall
+Hotel Green Park,Pune,2000,3,Wakad,Rajiv Gandhi Zoo,Pashan Lake
+Hotel Elite,Pune,3200,4,Kothrud,Saras Baug,Shaniwar Wada
+Hotel City Inn,Pune,2700,4,Aundh,Pataleshwar Temple,FC Road
+Hotel Executive,Pune,3800,5,Camp Area,MG Road,Dagadusheth Temple
+Hotel Horizon,Pune,1500,3,Pimpri,Balewadi Stadium,Sinhagad Fort
+Hotel Taj Palace,Mumbai,9000,5,Colaba,Gateway of India,Marine Drive
+Hotel Sea Palace,Mumbai,4200,4,Colaba,Gateway of India,Elephanta Caves
+Hotel Residency,Mumbai,2500,3,Dadar,Siddhivinayak Temple,Juhu Beach
+Hotel Airport Inn,Mumbai,2000,3,Andheri,Juhu Beach,ISKCON Temple
+Hotel Grand Plaza,Mumbai,3200,4,Bandra,Bandra Fort,Marine Drive
+Hotel Metro Stay,Mumbai,2800,4,Churchgate,CST,Marine Drive
+Hotel Ocean View,Mumbai,5500,5,Nariman Point,Gateway of India,Haji Ali
+Hotel Blue Waves,Mumbai,3700,4,Versova,Juhu Beach,Versova Beach
+Hotel Royal Comfort,Mumbai,3000,4,Ghatkopar,R City Mall,Powai Lake
+Hotel Green Residency,Mumbai,1800,3,Chembur,Siddhivinayak Temple,Bandra Fort
+Hotel Panchavati,Nashik,2200,4,Panchavati,Ram Kund,Sita Gufa
+Hotel Residency,Nashik,1800,3,College Road,Sula Vineyards,Trimbakeshwar
+Hotel Express Inn,Nashik,3900,5,Pathardi,Anjaneri Hills,Muktidham
+Hotel City Palace,Nashik,2500,4,Gangapur Road,Kalaram Temple,Ram Kund
+Hotel Utsav,Nashik,1500,3,CBS,Someshwar Waterfall,Tapovan
+Hotel Elite,Nashik,3200,4,Indira Nagar,Pandavleni Caves,Sula Vineyards
+Hotel Green View,Nashik,2700,4,Satpur,Muktidham,Ram Kund
+Hotel Royal Inn,Nashik,4500,5,Trimbak Road,Trimbakeshwar,Anjaneri Hills
+Hotel Comfort Stay,Nashik,2100,3,Dwarka,Sita Gufa,Kalaram Temple
+Hotel Grand,Nashik,2900,4,College Road,Someshwar Waterfall,Muktidham
+Hotel Sayaji,Kolhapur,3800,5,Kawala Naka,Mahalaxmi Temple,Rankala Lake
+Hotel Pearl,Kolhapur,2500,4,Station Road,New Palace,Panhala Fort
+Hotel Welcome,Kolhapur,1700,3,Tarabai Park,Rankala Lake,Kaneri Math
+Hotel Royal Heritage,Kolhapur,4200,5,Rajarampuri,Shalini Palace,Mahalaxmi Temple
+Hotel Green Park,Kolhapur,2800,4,Shahupuri,Panhala Fort,Rankala Lake
+Hotel Lotus,Kolhapur,2100,3,Ujalaiwadi,Kaneri Math,Mahalaxmi Temple
+Hotel Executive,Kolhapur,3300,4,Station Road,New Palace,Rankala Lake
+Hotel City Inn,Kolhapur,2400,4,Rajarampuri,Shalini Palace,Panhala Fort
+Hotel Comfort,Kolhapur,1800,3,Market Yard,Rankala Lake,Kaneri Math
+Hotel Grand Stay,Kolhapur,4600,5,Kawala Naka,Mahalaxmi Temple,Panhala Fort
+Hotel Hill View,Satara,1800,3,Shahupuri,Kaas Plateau,Thoseghar Waterfall
+Hotel Raj Palace,Satara,2600,4,Powai Naka,Ajinkyatara Fort,Sajjangad Fort
+Hotel Maharaja,Satara,3500,5,Bus Stand Road,Kaas Plateau,Chalkewadi Windmills
+Hotel Comfort Inn,Satara,2200,4,Market Yard,Thoseghar Waterfall,Koyna Dam
+Hotel Green Park,Satara,1500,3,Station Road,Sajjangad Fort,Ajinkyatara Fort
+Hotel Grand Stay,Satara,3000,5,Collector Office,Kaas Plateau,Kaas Lake
+Hotel Blue Sky,Satara,2100,4,MIDC,Chalkewadi Windmills,Thoseghar Waterfall
+Hotel River View,Satara,1700,3,Shendre,Koyna Dam,Sajjangad Fort
+Hotel Executive,Satara,2700,4,Phaltan Road,Kaas Plateau,Ajinkyatara Fort
+Hotel Royal Residency,Satara,4000,5,Powai Naka,Thoseghar Waterfall,Kaas Lake
+Hotel Sangli Palace,Sangli,1800,3,Vishrambag,Ganapati Temple,Dandoba Hills
+Hotel Krishna Inn,Sangli,2600,4,Station Road,Sangli Fort,Krishna River
+Hotel Royal Orchid,Sangli,3600,5,Civil Hospital Road,Ganapati Temple,Irwin Bridge
+Hotel Green Residency,Sangli,2100,4,Market Yard,Dandoba Hills,Krishna River
+Hotel Comfort Stay,Sangli,1600,3,Bus Stand,Sangli Fort,Irwin Bridge
+Hotel Grand Palace,Sangli,3200,5,Vijaynagar,Dandoba Hills,Ganapati Temple
+Hotel Lotus,Sangli,2400,4,Kupwad Road,Krishna River,Sangli Fort
+Hotel City Inn,Sangli,1700,3,Haripur Road,Ganapati Temple,Dandoba Hills
+Hotel Elite,Sangli,2800,4,Miraj Road,Irwin Bridge,Krishna River
+Hotel Maharaja,Sangli,4200,5,Station Road,Sangli Fort,Dandoba Hills
+Hotel Solapur Inn,Solapur,1700,3,Railway Station,Siddheshwar Temple,Great Indian Bustard Sanctuary
+Hotel Royal Plaza,Solapur,2500,4,Hotgi Road,Hipparga Lake,Siddheshwar Temple
+Hotel Grand Residency,Solapur,3600,5,Civil Lines,Great Indian Bustard Sanctuary,Bhuikot Fort
+Hotel Comfort Palace,Solapur,2200,4,Saat Rasta,Hipparga Lake,Bhuikot Fort
+Hotel Green Leaf,Solapur,1500,3,Vijapur Road,Siddheshwar Temple,Hipparga Lake
+Hotel Executive,Solapur,3100,5,Collector Office,Bhuikot Fort,Great Indian Bustard Sanctuary
+Hotel City Palace,Solapur,2400,4,Market Yard,Siddheshwar Temple,Bhuikot Fort
+Hotel Lotus Inn,Solapur,1800,3,Railway Lines,Hipparga Lake,Siddheshwar Temple
+Hotel Elite Stay,Solapur,2800,4,Hotgi Road,Great Indian Bustard Sanctuary,Bhuikot Fort
+Hotel Presidency,Solapur,4300,5,Station Road,Siddheshwar Temple,Hipparga Lake
+Hotel Sea Breeze,Ratnagiri,1900,3,Beach Road,Thiba Palace,Ganpatipule Beach
+Hotel Konkan Pride,Ratnagiri,2700,4,Shivaji Nagar,Ratnadurg Fort,Thiba Palace
+Hotel Blue Ocean,Ratnagiri,3800,5,Marine Drive,Ganpatipule Beach,Jaigad Fort
+Hotel Green Valley,Ratnagiri,2100,4,Nachane Road,Thiba Palace,Ratnadurg Fort
+Hotel Comfort Inn,Ratnagiri,1600,3,Tilak Ali,Ganpatipule Beach,Jaigad Fort
+Hotel Royal Residency,Ratnagiri,3400,5,Station Road,Ratnadurg Fort,Thiba Palace
+Hotel Executive,Ratnagiri,2600,4,Maruti Mandir,Ganpatipule Beach,Ratnadurg Fort
+Hotel Lotus,Ratnagiri,1800,3,Market Road,Jaigad Fort,Thiba Palace
+Hotel Paradise,Ratnagiri,2900,4,Shivaji Nagar,Ganpatipule Beach,Ratnadurg Fort
+Hotel Heritage,Ratnagiri,4500,5,Beach Road,Jaigad Fort,Ganpatipule Beach
+Hotel Hill Resort,Mahabaleshwar,2500,4,Main Market,Venna Lake,Mapro Garden
+Hotel Valley View,Mahabaleshwar,4200,5,Panchgani Road,Arthur Seat,Elephant Head Point
+Hotel Green Woods,Mahabaleshwar,1800,3,Bus Stand,Lingmala Waterfall,Wilson Point
+Hotel Royal Stay,Mahabaleshwar,3300,4,Old Mahabaleshwar,Pratapgad Fort,Venna Lake
+Hotel Grand Resort,Mahabaleshwar,5000,5,Market Road,Mapro Garden,Wilson Point
+Hotel Comfort Palace,Mahabaleshwar,2200,4,Main Road,Lingmala Waterfall,Arthur Seat
+Hotel Nature View,Mahabaleshwar,1600,3,Bus Stand,Venna Lake,Elephant Head Point
+Hotel Mountain Inn,Mahabaleshwar,2900,4,Panchgani Road,Pratapgad Fort,Mapro Garden
+Hotel Blue Hills,Mahabaleshwar,3700,5,Old Mahabaleshwar,Wilson Point,Arthur Seat
+Hotel Sunrise,Mahabaleshwar,2100,4,Main Market,Venna Lake,Lingmala Waterfall
+Hotel Hill Top,Lonavala,2200,4,Main Market,Tiger Point,Bhushi Dam
+Hotel Mountain View,Lonavala,3500,5,Tungarli Road,Rajmachi Fort,Lion Point
+Hotel Green Valley,Lonavala,1800,3,Rye Wood Park,Bhushi Dam,Karla Caves
+Hotel Royal Residency,Lonavala,4200,5,Old Mumbai Pune Highway,Tiger Point,Lohagad Fort
+Hotel Comfort Inn,Lonavala,2500,4,Bus Stand,Sunil Wax Museum,Imagica
+Hotel Grand Palace,Lonavala,5000,5,Tungarli,Rajmachi Fort,Pawna Lake
+Hotel Lake View,Lonavala,2800,4,Valvan,Bhushi Dam,Pawna Lake
+Hotel Blue Sky,Lonavala,1700,3,Station Road,Karla Caves,Bhushi Dam
+Hotel Executive,Lonavala,3100,4,Market Area,Tiger Point,Duke's Nose
+Hotel Paradise,Lonavala,4500,5,Old Highway,Lion Point,Rajmachi Fort
+Hotel Green Leaf,Khandala,1900,3,Station Road,Duke's Nose,Tiger Point
+Hotel Royal Palace,Khandala,3200,4,Old Highway,Rajmachi Fort,Bhushi Dam
+Hotel Grand Residency,Khandala,4800,5,Market Road,Lion Point,Karla Caves
+Hotel Hill Resort,Khandala,2400,4,Bus Stand,Duke's Nose,Lohagad Fort
+Hotel Sunrise,Khandala,1700,3,Main Market,Tiger Point,Bhushi Dam
+Hotel Blue Moon,Khandala,2900,4,Station Area,Karla Caves,Rajmachi Fort
+Hotel Green Park,Khandala,3600,5,Old Mumbai Road,Lion Point,Duke's Nose
+Hotel Lotus Inn,Khandala,2200,4,Market Road,Bhushi Dam,Lohagad Fort
+Hotel Comfort Stay,Khandala,1800,3,Bus Stand,Tiger Point,Rajmachi Fort
+Hotel Mountain Inn,Khandala,4100,5,Hill Road,Duke's Nose,Lion Point
+Hotel Sea Breeze,Alibaug,2300,4,Beach Road,Alibaug Beach,Kolaba Fort
+Hotel Royal Sea View,Alibaug,4700,5,Nagaon Beach,Varsoli Beach,Kihim Beach
+Hotel Blue Ocean,Alibaug,1900,3,Revdanda Road,Kolaba Fort,Alibaug Beach
+Hotel Grand Beach Resort,Alibaug,3900,5,Nagaon Beach,Murud Janjira,Kashid Beach
+Hotel Comfort Inn,Alibaug,2600,4,Main Market,Varsoli Beach,Alibaug Beach
+Hotel Green Leaf,Alibaug,1700,3,Bus Stand,Kihim Beach,Kolaba Fort
+Hotel Ocean View,Alibaug,3300,4,Beach Road,Kashid Beach,Murud Janjira
+Hotel Executive Stay,Alibaug,2100,4,Market Area,Alibaug Beach,Varsoli Beach
+Hotel Paradise,Alibaug,4500,5,Nagaon Road,Kolaba Fort,Kihim Beach
+Hotel Residency,Alibaug,2800,4,Station Road,Murud Janjira,Kashid Beach
+Hotel Konkan Palace,Sindhudurg,2400,4,Malvan,Sindhudurg Fort,Tarkarli Beach
+Hotel Blue Sea,Sindhudurg,3900,5,Tarkarli,Devbag Beach,Rock Garden
+Hotel Green Valley,Sindhudurg,1800,3,Kudal,Sindhudurg Fort,Malvan Beach
+Hotel Royal Heritage,Sindhudurg,4700,5,Malvan,Tsunami Island,Tarkarli Beach
+Hotel Comfort Palace,Sindhudurg,2500,4,Sawantwadi,Amboli Ghat,Sindhudurg Fort
+Hotel Executive,Sindhudurg,3200,4,Malvan,Rock Garden,Devbag Beach
+Hotel Lotus Inn,Sindhudurg,1700,3,Kankavli,Tarkarli Beach,Sindhudurg Fort
+Hotel Grand Stay,Sindhudurg,4200,5,Tarkarli,Devbag Beach,Tsunami Island
+Hotel River View,Sindhudurg,2800,4,Malvan,Malvan Beach,Rock Garden
+Hotel Paradise,Sindhudurg,5200,5,Devbag,Tarkarli Beach,Sindhudurg Fort
+Hotel Beach Resort,Tarkarli,2500,4,Tarkarli Beach,Tarkarli Beach,Devbag Beach
+Hotel Blue Lagoon,Tarkarli,4100,5,Beach Road,Tsunami Island,Sindhudurg Fort
+Hotel Green Woods,Tarkarli,1800,3,Market Road,Malvan Beach,Rock Garden
+Hotel Royal Beach,Tarkarli,3600,4,Main Road,Devbag Beach,Tarkarli Beach
+Hotel Ocean Palace,Tarkarli,5200,5,Sea View Road,Sindhudurg Fort,Tsunami Island
+Hotel Comfort Stay,Tarkarli,2100,4,Bus Stand,Rock Garden,Devbag Beach
+Hotel Sunrise,Tarkarli,1700,3,Beach Area,Tarkarli Beach,Malvan Beach
+Hotel Executive Inn,Tarkarli,2900,4,Main Market,Sindhudurg Fort,Rock Garden
+Hotel Grand Paradise,Tarkarli,4600,5,Beach Road,Tsunami Island,Devbag Beach
+Hotel Sea Crown,Tarkarli,3400,4,Market Road,Tarkarli Beach,Sindhudurg Fort
